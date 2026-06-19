@@ -1,0 +1,249 @@
+{
+  "target_date": "2026-05-20",
+  "date_windows": {
+    "recent_30d": {
+      "start": "2026-04-20",
+      "end": "2026-05-20"
+    },
+    "past_year": {
+      "start": "2025-05-20",
+      "end": "2026-04-19"
+    }
+  },
+  "total_recent": 0,
+  "total_hot": 5,
+  "total_unique": 5,
+  "top_papers": [
+    {
+      "paperId": "1e6fd27b0176c7f4335ee2cfa42bd0114b7b75bd",
+      "externalIds": {
+        "DOI": "10.22363/2313-2302-2025-29-2-473-490",
+        "CorpusId": 282447673
+      },
+      "url": "https://www.semanticscholar.org/paper/1e6fd27b0176c7f4335ee2cfa42bd0114b7b75bd",
+      "title": "The Importance of Kant’s Philosophy of Mind for Contemporary Research in Artificial Intelligence",
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22363/2313-2302-2025-29-2-473-490?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22363/2313-2302-2025-29-2-473-490, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2025-12-15",
+      "authors": [
+        {
+          "authorId": "1584444028",
+          "affiliations": []
+        }
+      ],
+      "abstract": "Since its inception, the artificial intelligence program has relied on a positivistic, anti-psychological philosophical paradigm, in which a purely physicalistic description of thinking processes assumed their adequate modeling using logical machines relevant to the tasks and goals, such as Turing (1960s-70s). Optimistic expectations of positive results immediately ran into both technical difficulties and purely conceptual difficulties. However, when the urgent problem of philosophical revision of the basic AI paradigm arose, Kant’s theory of consciousness and thinking was not seriously considered and was criticized in the 1990s. Since the 2000s, we have seen impressive successes in the use of artificial neural networks with deep learning architecture in the field of modeling thinking and complex biological processes. It seemed that the main goal of the AI program - achieving strong AI - was just a matter of time. But the direct implementation of the connectionism concept in working with large volumes of associative and fuzzy arrays of information turned out to be generally ineffective in the field of representing the intellectual abilities of consciousness, especially in the representation of high-level knowledge and precise processing of symbolic information, i.e. higher cognitive abilities. At the same time, some AI specialists and cognitive philosophers turned to Kant’s philosophy of consciousness, which embodied such a transcendental organization of the macroarchitecture of an intellectual system that has an active cognitive activity, but does not correspond to modern ideas about the various mechanisms for processing input and output data in a cognitive system. Such cognition is fundamentally active, since it is a product of the synthesis of the ability of productive imagination. To identify this macroarchitecture, the Kantian transcendental method is used, which consists in the fact that the transcendental architecture of any consciousness is not created as a result of empirical studies of human intellectual abilities, the functioning of brain processes or the achievements of evolutionary biology, but is constructed based on the a priori conditions of the very possibility of its existence. This Kantian method aims to reveal an a priori structure of consciousness that is isomorphic to any rationally knowing subject. The study examines what Kant’s philosophy has to offer AI and cognitive science.",
+      "source": "semantic_scholar",
+      "hot_score": 0,
+      "affiliations": [],
+      "arxiv_id": null,
+      "scores": {
+        "relevance": 1.1,
+        "recency": 1.0,
+        "popularity": 0.0,
+        "quality": 0.5,
+        "recommendation": 1.78
+      },
+      "matched_domain": "Philosophy of Mind & AI",
+      "matched_keywords": [
+        "philosophy of mind",
+        "philosophy of consciousness",
+        "connectionism"
+      ],
+      "is_hot_paper": true,
+      "note_filename": "The_Importance_of_Kant’s_Philosophy_of_Mind_for_Contemporary_Research_in_Artificial_Intelligence"
+    },
+    {
+      "paperId": "053e09ffde7d9985554d6cf2843e7ddb5435b295",
+      "externalIds": {
+        "DOI": "10.65201/001c.147362",
+        "CorpusId": 283395464
+      },
+      "url": "https://www.semanticscholar.org/paper/053e09ffde7d9985554d6cf2843e7ddb5435b295",
+      "title": "The Paradox of Artificial Intelligence in Adult Learning: Navigating Opportunity, Anxiety, and Impact Through the Lens of Heidegger",
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.65201/001c.147362?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.65201/001c.147362, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2025-11-26",
+      "authors": [
+        {
+          "authorId": "2270682160",
+          "affiliations": []
+        },
+        {
+          "authorId": "2134588236",
+          "affiliations": []
+        }
+      ],
+      "abstract": "The growing presence of Artificial Intelligence (AI) and robotics in the workforce presents a complex situation for adult learners in online education, marked by two key anxieties. The first is the fear of becoming professionally obsolete, which motivates them to use AI tools for efficient skill acquisition. However, this dependency on AI leads to a second anxiety: the concern over losing intellectual independence and critical thinking skills. This tension is explored through the lens of Heidegger’s philosophy, where modern technology, or AI in education, is seen not just as a tool but as a way of revealing the world called Enframing (Gestell) (Rogobete, 2015). This philosophical tension suggests the risk of reducing the learner’s mind to a resource within a system that values mere functionality. Furthermore, this article extends this analysis beyond adults to examine the effects of hyper-technological immersion on children, and discusses the compounding mental health crisis in the infosphere, including rising rates of depression and suicide linked to the erosion of authentic human relationships and the isolating nature of digital life.",
+      "source": "semantic_scholar",
+      "hot_score": 0,
+      "affiliations": [],
+      "arxiv_id": null,
+      "scores": {
+        "relevance": 0.8,
+        "recency": 1.0,
+        "popularity": 0.0,
+        "quality": 0.7,
+        "recommendation": 1.5
+      },
+      "matched_domain": "Reinforcement Learning & Decision Making",
+      "matched_keywords": [
+        "RL",
+        "PPO"
+      ],
+      "is_hot_paper": true,
+      "note_filename": "The_Paradox_of_Artificial_Intelligence_in_Adult_Learning_Navigating_Opportunity,_Anxiety,_and_Impact_Through_the_Lens_of_Heidegger"
+    },
+    {
+      "paperId": "ff9c99e8bc8a7723b2adcd80c52116883b951cce",
+      "externalIds": {
+        "DOI": "10.1162/leon.a.76",
+        "CorpusId": 279176721
+      },
+      "url": "https://www.semanticscholar.org/paper/ff9c99e8bc8a7723b2adcd80c52116883b951cce",
+      "title": "The “Aura” of Artworks in the Era of Artificial Intelligence",
+      "citationCount": 1,
+      "influentialCitationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1162/leon.a.76?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1162/leon.a.76, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2025-06-06",
+      "authors": [
+        {
+          "authorId": "2365967713",
+          "affiliations": []
+        },
+        {
+          "authorId": "2366156254",
+          "affiliations": []
+        }
+      ],
+      "abstract": "Since Baumgarten formally defined “aesthetics” in the 18th century, the term has been widely discussed in the fields of art and philosophy. In the early 20th century, Walter Benjamin argued that the mechanized modes of production introduced by the industrial revolution caused artworks to lose their “aura,” marking the first time aesthetics was subjected to scrutiny through the lens of technology. The advent of artificial intelligence (AI) a century later develops the challenge further: Is AI art similarly devoid of an aura (i.e., aesthetics)? If not, what form does its aesthetics take, and does it differ from that of art produced during the era of mechanical reproduction? With these questions in mind, the authors embark on an exploration of the aesthetics of art in the age of AI, as well as recent trends in the development of artistic aesthetics.",
+      "source": "semantic_scholar",
+      "hot_score": 0,
+      "affiliations": [],
+      "arxiv_id": null,
+      "scores": {
+        "relevance": 0.6,
+        "recency": 0.0,
+        "popularity": 0.0,
+        "quality": 0.7,
+        "recommendation": 0.93
+      },
+      "matched_domain": "Reinforcement Learning & Decision Making",
+      "matched_keywords": [
+        "RL",
+        "exploration"
+      ],
+      "is_hot_paper": true,
+      "note_filename": "The_“Aura”_of_Artworks_in_the_Era_of_Artificial_Intelligence"
+    },
+    {
+      "paperId": "2146710719af03c8c952296c72d7ca7e11b26973",
+      "externalIds": {
+        "DOI": "10.1177/jmrt.251379963",
+        "CorpusId": 282177868
+      },
+      "url": "https://www.semanticscholar.org/paper/2146710719af03c8c952296c72d7ca7e11b26973",
+      "title": "Artificial Intelligence (AI) Versus Human Intelligence (HI): An Analytical Perspective",
+      "citationCount": 0,
+      "influentialCitationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/jmrt.251379963?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/jmrt.251379963, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2025-10-16",
+      "authors": [
+        {
+          "authorId": "2386307890",
+          "affiliations": []
+        },
+        {
+          "authorId": "2166301894",
+          "affiliations": []
+        },
+        {
+          "authorId": "2327259114",
+          "affiliations": []
+        }
+      ],
+      "abstract": "The revelation of Artificial Intelligence (AI) has been controversial for quite a long time, as most people have questioned whether AI will ever be able to surpass human intelligence (HI). While comparing the details between AI and HI, the abilities and vulnerabilities of each are also outlined in this article. Therefore, systematically, we strive to find accurate overlaps of the Human Mind and Machine Learning in the expanse of Cognitive Psychology, Computer Science, and Philosophy. As for our study, we also make a more pessimistic conclusion, which is a clear difference between human-AI and HI, suggesting that although it has a great ability to perform computing numerical data, pattern recognition, task performance, etc., it cannot generate attributes such as creativity, empathy or a higher-level of context sensitivity. On the other hand, HI has limitations, and they are biologically confined, bias-prone, and subject to bias. However, about the competencies of AI and HI identified in this article, it is argued that the current struggle between those two competitors is a win-win partnership. Thus, by observing each area of responsibility, we can see the benefits we can get from each to achieve the integration that makes it possible for the mutual synergy to ensure the progressive development of the two.",
+      "source": "semantic_scholar",
+      "hot_score": 0,
+      "affiliations": [],
+      "arxiv_id": null,
+      "scores": {
+        "relevance": 0.3,
+        "recency": 0.0,
+        "popularity": 0.0,
+        "quality": 0.7,
+        "recommendation": 0.58
+      },
+      "matched_domain": "Reinforcement Learning & Decision Making",
+      "matched_keywords": [
+        "RL"
+      ],
+      "is_hot_paper": true,
+      "note_filename": "Artificial_Intelligence_(AI)_Versus_Human_Intelligence_(HI)_An_Analytical_Perspective"
+    },
+    {
+      "paperId": "1457f367a99cb3dbb1f1d39376a55469de6936df",
+      "externalIds": {
+        "DOI": "10.1016/j.jagp.2025.06.015",
+        "CorpusId": 279526139,
+        "PubMed": "40681447"
+      },
+      "url": "https://www.semanticscholar.org/paper/1457f367a99cb3dbb1f1d39376a55469de6936df",
+      "title": "Loneliness, Theory of Mind, and Artificial Intelligence.",
+      "citationCount": 2,
+      "influentialCitationCount": 0,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jagp.2025.06.015?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jagp.2025.06.015, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2025-06-01",
+      "authors": [
+        {
+          "authorId": "2258862378",
+          "affiliations": []
+        }
+      ],
+      "abstract": "Philosophy and neurobiology can guide the integration of smart machines in initiatives intended to address the epidemic of loneliness in the aging population. Behaviorism and functionalism assume that AI systems can develop empathy-like functions. Property dualism posits that consciousness is an emergent function that depends on, but supervenes, its underlying neurobiological functions. Emergent functions occur in biology and, theoretically, they may occur in artificial systems. Therefore, advanced AI systems may develop intentionality, and agency, functions beyond those planned by their designers. Therefore, guidelines are needed for protection of humans and especially older adults with cognitive and cultural limitations related to technology. For AI systems to be helpful in mitigating loneliness, they should have capabilities similar to those of theory of mind functions (ToM), that allow an individual to identify emotions, intentions, and wishes of him/herself and of others and recognize to whom they belong. Cognitive and neurobiological studies show that ToM are disrupted in persons experiencing loneliness. AI systems with ToM functions may produce empathy-like responses appropriate for mitigating loneliness. Smart technology can be most effective against loneliness if integrated in the fabric of social and clinical interventions. Acceptance of technology by geriatric clinicians is critical, because they are best equipped to guide the targeted use of smart machines, prevent complications (e.g. countertherapeutic transference towards the machine), and correct the course of interventions. Neurobiology related to ToM functions and to prolonged grief disorder may guide research examining whether digital interventions can change neural functions related to loneliness and psychopathology.",
+      "source": "semantic_scholar",
+      "hot_score": 0,
+      "affiliations": [],
+      "arxiv_id": null,
+      "scores": {
+        "relevance": 0.3,
+        "recency": 0.0,
+        "popularity": 0.0,
+        "quality": 0.0,
+        "recommendation": 0.35
+      },
+      "matched_domain": "Reinforcement Learning & Decision Making",
+      "matched_keywords": [
+        "RL"
+      ],
+      "is_hot_paper": true,
+      "note_filename": "Loneliness,_Theory_of_Mind,_and_Artificial_Intelligence."
+    }
+  ]
+}
