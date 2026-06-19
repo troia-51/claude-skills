@@ -1,0 +1,28 @@
+[submodule "excalidraw-diagram"]
+	path = excalidraw-diagram
+	url = https://github.com/troia-51/excalidraw-diagram-skill.git
+	branch = main
+[submodule "follow-builders"]
+	path = follow-builders
+	url = https://github.com/troia-51/follow-builders.git
+	branch = main
+[submodule "frontend-slides"]
+	path = frontend-slides
+	url = https://github.com/troia-51/frontend-slides.git
+	branch = main
+[submodule "humanizer"]
+	path = humanizer
+	url = https://github.com/troia-51/humanizer.git
+	branch = main
+[submodule "slack-gif-creator"]
+	path = slack-gif-creator
+	url = https://github.com/troia-51/claude-slack-gif-creator.git
+	branch = main
+[submodule "cfp-study"]
+	path = cfp-study
+	url = https://github.com/troia-51/CFP-Study.git
+	branch = main
+[submodule "codebase-to-course"]
+	path = codebase-to-course
+	url = https://github.com/troia-51/codebase-to-course.git
+	branch = main
