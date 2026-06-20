@@ -44,6 +44,8 @@ If no StudyVault exists, inform user and stop.
 
 ### Phase 2: Ask Session Type
 
+> ⚠️ This skill overrides the global execute-first rule — session type selection requires user input.
+
 **MANDATORY**: Use AskUserQuestion to let the user choose what to do. Analyze the dashboard to build context-aware options, then present them.
 
 Read the dashboard proficiency table and build options based on current state:

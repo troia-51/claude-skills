@@ -13,6 +13,8 @@ Structured workflow for creating and modifying Claude Code skills. Prevents scop
 
 ## Core Rules (Non-Negotiable)
 
+> ⚠️ This skill overrides the global execute-first rule — confirmation is required before any SKILL.md modification.
+
 1. **Never write SKILL.md without approval.** Always present as code block first.
 2. **Never add features the user didn't request.** If tempted, ask first.
 3. **Confirm scope before each change.** State what will change and wait.

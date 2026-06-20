@@ -27,6 +27,8 @@ On invocation, detect mode automatically:
 2. **If any marker found** → **Codebase Mode**
 3. **If no marker found** → **Document Mode**
 4. **Tie-break**: If `.git/` is the sole indicator and no source code files (`*.ts`, `*.py`, `*.java`, `*.go`, `*.rs`, etc.) exist, default to Document Mode.
+> ⚠️ This skill overrides the global execute-first rule — mode confirmation is required before proceeding.
+
 5. Announce detected mode and ask user to confirm or override.
 
 ---
